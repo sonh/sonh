@@ -1,4 +1,4 @@
-<img src="./images/hi.png" width="40%" align='right'>
+<img src="./images/hi.png" width="60%" align='right'>
 
 ### About me
 - 🏠 I'm from VietNam, living in HCM City.
