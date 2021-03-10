@@ -9,10 +9,10 @@
 - 🌱 I’m learning and improving my English.
 
 ### Things I am working with
-<img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" width="36px"> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original.svg" width="36px"> <img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original.svg" width="36px"> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" width="36px"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" width="36px"> <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original.svg" width="36px">
+<img src="./images/go-original.svg" width="36px"> <img src="./images/postgresql-original.svg" width="36px"> <img src="./images/redis-original.svg" width="36px"> <img src="./images/docker-original-wordmark.svg" width="36px"> <img src="./images/linux-original.svg" width="36px">
 
 ### Things I am learning
-<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" width="36px">  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" width="36px"> 
+<img src="./images/kubernetes-plain-wordmark.svg" width="36px">
 
 ### Stuff I'm working on
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sonh&repo=qs)](https://github.com/sonh/qs)
