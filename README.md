@@ -1,17 +1,14 @@
 <img src="./images/hi.png" width="60%" align='right'>
 
 ### About me
-- 🏠 I'm from VietNam, living in HCM City.
-- 😍 I'm a gopher, I love to code in Go.
-- 🤩 I love building mobile apps .
-- 👨‍💻 I'm currently working on my pet projects.
-- 🦉 I'm a night owl.
+- I'm from VietNam, living in HCM City.
+- I'm a backend engineer
 
 ### Things I am working with
-<img src="./images/go-original.svg" width="36px"> <img src="./images/postgresql-original.svg" width="36px"> <img src="./images/redis-original.svg" width="36px"> <img src="./images/docker-original-wordmark.svg" width="36px"> <img src="./images/linux-original.svg" width="36px">
+<img src="./images/go-original.svg" width="36px"> <img src="./images/postgresql-original.svg" width="36px">  <img src="./images/docker-original-wordmark.svg" width="36px"> <img src="./images/kubernetes-plain-wordmark.svg" width="36px"> <img src="./images/linux-original.svg" width="36px">
 
 ### Things I am learning
-<img src="./images/kubernetes-plain-wordmark.svg" width="36px">
+<img src="./images/rust-original.svg" width="36px">
 
 ### Stuff I'm working on
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sonh&repo=qs)](https://github.com/sonh/qs)
