@@ -5,7 +5,7 @@
 - I'm a backend engineer
 
 ### Things I am working with
-<img src="./images/python-original.svg" width="36px"> <img src="./images/go-original.svg" width="36px"> <img src="./images/postgresql-original.svg" width="36px">  <img src="./images/docker-original-wordmark.svg" width="36px"> <img src="./images/kubernetes-plain-wordmark.svg" width="36px"> <img src="./images/linux-original.svg" width="36px">
+<img src="./images/python-original.svg" width="36px"> <img src="./images/go-original.svg" width="36px"> <img src="./images/django-plain.svg" width="36px"> <img src="./images/postgresql-original.svg" width="36px">  <img src="./images/docker-original-wordmark.svg" width="36px"> <img src="./images/kubernetes-plain-wordmark.svg" width="36px"> <img src="./images/linux-original.svg" width="36px">
 
 ### Things I am learning
 <img src="./images/rust-original.svg" width="36px">
